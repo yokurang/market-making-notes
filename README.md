@@ -1,6 +1,7 @@
 # Market Making Notes
 
 Please create an issue or pull request to provide feedback or request for additional topics.
+
 Credit me if you want to re-use this content.
 
 ---
